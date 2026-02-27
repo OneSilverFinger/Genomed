@@ -1,0 +1,16 @@
+/vendor/
+/runtime/
+/web/assets/
+/node_modules/
+
+*.log
+*.lock
+.DS_Store
+Thumbs.db
+
+.idea/
+.vscode/
+*.swp
+*.swo
+
+.env
